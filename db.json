@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "menu": [
+    {
+      "title": "Wok Том ям с лососем",
+      "price": 399,
+      "url": "https://www.tokyo-city.ru/goods/wok_udon.jpg",
+      "category": "wok",
+      "id": 1
+    },
+    {
+      "title": "Wok Том ям с креветкой",
+      "price": 349,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7zAas28fhh2KKaziFm7i1I_6qNock98Krn36AtYWCOSOxiTGff4tPl1FkZwKkAugEBpk&usqp=CAU",
+      "category": "wok",
+      "id": 2
+    },
+    {
+      "title": "Wok Том кха с цыпленком",
+      "price": 279,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYjmXqF0QMWwIq7DgWISvdMR5e0537EXsObJ21hL_9ZeN3f3zP7lnYUpEf93mUv4Vv-9g&usqp=CAU",
+      "category": "wok",
+      "id": 3
+    },
+    {
+      "title": "Wok Сальса",
+      "price": 299,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsug8jXy9o_UrizAVguEngULaKK0C1O6Leyt3YH7AdzHFkKdAzNeye1rl5CudAR9SJ6s&usqp=CAU",
+      "category": "wok",
+      "id": 4
+    },
+    {
+      "title": "Wok классический",
+      "price": 229,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODTTs49KR4iAp1Z-KiLi_6fNYVTzo_w82MQ&usqp=CAU",
+      "category": "wok",
+      "id": 5
+    },
+    {
+      "title": "Wok морской",
+      "price": 349,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLzBfQzkEzWEaACVJNkCTWgGGI6HPEMW0Yw&usqp=CAU",
+      "category": "wok",
+      "id": 6
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": []
 }
